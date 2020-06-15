@@ -1,0 +1,19 @@
+RPA for polyphonic audio using F0_tracking() of LibFMP library
+
+filename				RPA in %
+
+mir1k_16wavfiles/abjones_1_01.wav	41.24
+mir1k_16wavfiles/abjones_1_02.wav	37.07
+mir1k_16wavfiles/abjones_1_03.wav	37.85
+mir1k_16wavfiles/abjones_1_04.wav	46.09
+mir1k_16wavfiles/abjones_2_01.wav	71.52
+mir1k_16wavfiles/abjones_2_02.wav	51.42
+mir1k_16wavfiles/abjones_2_03.wav	36.71
+mir1k_16wavfiles/abjones_2_04.wav	64.74
+mir1k_16wavfiles/abjones_2_05.wav	72.78
+mir1k_16wavfiles/abjones_2_06.wav	27.17
+mir1k_16wavfiles/abjones_2_08.wav	30.20
+mir1k_16wavfiles/abjones_2_09.wav	26.98
+mir1k_16wavfiles/abjones_2_10.wav	33.45
+mir1k_16wavfiles/abjones_2_11.wav	44.86
+mir1k_16wavfiles/abjones_2_12.wav	73.11

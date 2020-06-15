@@ -1,4 +1,4 @@
-This notebook guides you through different approaches for polyphonic audio melody extraction
+This project guides you through different approaches for polyphonic audio melody extraction
 
 First a pure signal proccesing approach is used (F0_tracking() of LibFMP library). The salience representation is used for getting most salient harmonic at each frame. This is followed by applying temporal continuity constraints such as transition matrix. The results of F0_tracking() on 16 audio files of MIR1K dataset can be found in the .txt file
 
